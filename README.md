@@ -1,12 +1,12 @@
 # FastMapperReal
 ![Nuget](https://img.shields.io/nuget/v/fastmapper?label=FastMapperReal)
 
-Realiza cualquier consulta  en mysql o postgres o sql server u oracle en forma asíncrona y retorna los resultados en un objeto JSON o alternativamente en un List<dynamic>()
+FastMapper is based on the FastMember project developed by mgravell. FastMember provides fast access to fields and properties of types in .NET, which is especially useful when access to type members is needed dynamically and member names are known only at runtime. This project enables efficient manipulation of type members at runtime, significantly improving performance compared to using standard reflection in .NET.
 
 
-Se debe instalar el paquete nuget en visual studio o por consola: [https://www.nuget.org/packages/noef](https://www.nuget.org/packages/FastMapperReal)  ![Nuget](https://img.shields.io/nuget/v/fastmapper?label=FastMapperReal)
+You should install the NuGet package in Visual Studio or via the console: [https://www.nuget.org/packages/noef](https://www.nuget.org/packages/FastMapperReal)  ![Nuget](https://img.shields.io/nuget/v/fastmapper?label=FastMapperReal)
 
-### Ejemplo de código:
+### Code example:
         public class SourceObject
         {
             public int Id { get; set; }
@@ -28,10 +28,6 @@ Se debe instalar el paquete nuget en visual studio o por consola: [https://www.n
                 _mapper=mapper;
             }
 
-            Task SomeMethod(){ var destinationObject = mapper.Map(sourceObject);}
+            Task SomeMethod(){ DestinationObject destinationObject = mapper.Map(sourceObject);}
         }
           
-     
-          
-       
-FastMapper está basado en el proyecto FastMember desarrollado por mgravell. FastMember proporciona un acceso rápido a los campos y propiedades de los tipos en .NET, lo que resulta especialmente útil cuando se necesita acceso a los miembros de un tipo de forma dinámica y los nombres de los miembros son conocidos solo en tiempo de ejecución. Este proyecto permite una manipulación eficiente de los miembros de los tipos en tiempo de ejecución, mejorando significativamente el rendimiento en comparación con el uso de la reflexión estándar en .NET.
