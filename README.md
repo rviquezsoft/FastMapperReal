@@ -1,10 +1,10 @@
 # FastMapperReal
-![Nuget](https://img.shields.io/nuget/v1/fastmapper?label=FastMapperReal)
+![Nuget](https://img.shields.io/nuget/v/fastmapper?label=FastMapperReal)
 
 Realiza cualquier consulta  en mysql o postgres o sql server u oracle en forma asíncrona y retorna los resultados en un objeto JSON o alternativamente en un List<dynamic>()
 
 
-Se debe instalar el paquete nuget en visual studio o por consola: [https://www.nuget.org/packages/noef](https://www.nuget.org/packages/FastMapperReal)  ![Nuget](https://img.shields.io/nuget/v1/fastmapper?label=FastMapperReal)
+Se debe instalar el paquete nuget en visual studio o por consola: [https://www.nuget.org/packages/noef](https://www.nuget.org/packages/FastMapperReal)  ![Nuget](https://img.shields.io/nuget/v/fastmapper?label=FastMapperReal)
 
 ### Ejemplo de código:
         public class SourceObject
