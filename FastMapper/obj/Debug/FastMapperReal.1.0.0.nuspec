@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FastMapperReal</id>
+    <version>1.0.0</version>
+    <title>FastMapper</title>
+    <authors>FastMapperReal</authors>
+    <description>Really fast map an entity to another like AutoMap but better!!</description>
+    <repository type="git" commit="9410b385f633257d0f174eb79a9c880bb654f2ab" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="FastMember" version="1.5.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\RichardEduardoViquez\source\repos\FastMapperReal\FastMapper\bin\Debug\net8.0\FastMapperReal.dll" target="lib\net8.0\FastMapperReal.dll" />
+  </files>
+</package>

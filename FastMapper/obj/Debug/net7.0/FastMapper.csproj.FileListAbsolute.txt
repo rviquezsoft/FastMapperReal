@@ -1,0 +1,4 @@
+C:\Users\RichardEduardoViquez\source\repos\FastMapper\FastMapper\obj\Debug\net7.0\FastMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RichardEduardoViquez\source\repos\FastMapper\FastMapper\obj\Debug\net7.0\FastMapper.AssemblyInfoInputs.cache
+C:\Users\RichardEduardoViquez\source\repos\FastMapper\FastMapper\obj\Debug\net7.0\FastMapper.AssemblyInfo.cs
+C:\Users\RichardEduardoViquez\source\repos\FastMapper\FastMapper\obj\Debug\net7.0\FastMapper.csproj.CoreCompileInputs.cache

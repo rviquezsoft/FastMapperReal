@@ -1,0 +1,12 @@
+C:\Users\RichardEduardoViquez\source\repos\FastMapper\FastMapper\bin\Release\net8.0\FastMapper.deps.json
+C:\Users\RichardEduardoViquez\source\repos\FastMapper\FastMapper\bin\Release\net8.0\FastMapper.dll
+C:\Users\RichardEduardoViquez\source\repos\FastMapper\FastMapper\bin\Release\net8.0\FastMapper.pdb
+C:\Users\RichardEduardoViquez\source\repos\FastMapper\FastMapper\obj\Release\net8.0\FastMapper.csproj.AssemblyReference.cache
+C:\Users\RichardEduardoViquez\source\repos\FastMapper\FastMapper\obj\Release\net8.0\FastMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RichardEduardoViquez\source\repos\FastMapper\FastMapper\obj\Release\net8.0\FastMapper.AssemblyInfoInputs.cache
+C:\Users\RichardEduardoViquez\source\repos\FastMapper\FastMapper\obj\Release\net8.0\FastMapper.AssemblyInfo.cs
+C:\Users\RichardEduardoViquez\source\repos\FastMapper\FastMapper\obj\Release\net8.0\FastMapper.csproj.CoreCompileInputs.cache
+C:\Users\RichardEduardoViquez\source\repos\FastMapper\FastMapper\obj\Release\net8.0\FastMapper.dll
+C:\Users\RichardEduardoViquez\source\repos\FastMapper\FastMapper\obj\Release\net8.0\refint\FastMapper.dll
+C:\Users\RichardEduardoViquez\source\repos\FastMapper\FastMapper\obj\Release\net8.0\FastMapper.pdb
+C:\Users\RichardEduardoViquez\source\repos\FastMapper\FastMapper\obj\Release\net8.0\ref\FastMapper.dll
