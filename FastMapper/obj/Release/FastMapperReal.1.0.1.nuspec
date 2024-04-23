@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FastMapperReal</id>
+    <version>1.0.1</version>
+    <title>FastMapper</title>
+    <authors>FastMapperReal</authors>
+    <projectUrl>https://github.com/rviquezsoft/FastMapperReal</projectUrl>
+    <description>Package Description</description>
+    <copyright>DO NOT CARE</copyright>
+    <repository type="https://github.com/rviquezsoft/FastMapperReal" commit="e72649f9c253cc24711267d4e1eb22e5e8b093c7" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="FastMember" version="1.5.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\RichardEduardoViquez\source\repos\FastMapperReal\FastMapper\bin\Release\net8.0\FastMapperReal.dll" target="lib\net8.0\FastMapperReal.dll" />
+  </files>
+</package>

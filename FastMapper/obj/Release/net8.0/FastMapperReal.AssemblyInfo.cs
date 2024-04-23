@@ -13,9 +13,9 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("FastMapperReal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Really fast map an entity to another like AutoMap but better!!")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("DO NOT CARE")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9410b385f633257d0f174eb79a9c880bb654f2ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e72649f9c253cc24711267d4e1eb22e5e8b093c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("FastMapperReal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FastMapperReal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

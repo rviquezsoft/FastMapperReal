@@ -6,7 +6,10 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>FastMapper</Title>
-    <Description>Really fast map an entity to another like AutoMap but better!!</Description>
+	  <PackageVersion>1.0.1</PackageVersion>
+	  <PackageProjectUrl>https://github.com/rviquezsoft/FastMapperReal</PackageProjectUrl>
+	  <Copyright>DO NOT CARE</Copyright>
+	  <RepositoryType>https://github.com/rviquezsoft/FastMapperReal</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
