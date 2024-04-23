@@ -1,5 +1,5 @@
 # FastMapperReal
-![Nuget](https://img.shields.io/nuget/v/fastmapperreal?label=[Richard%20V%C3%ADquez](https://github.com/rviquezsoft/FastMapperReal))
+![Nuget](https://img.shields.io/nuget/v/fastmapperreal?label=[https://github.com/rviquezsoft/FastMapperReal]
 
 Realiza cualquier consulta  en mysql o postgres o sql server u oracle en forma asíncrona y retorna los resultados en un objeto JSON o alternativamente en un List<dynamic>()
 
