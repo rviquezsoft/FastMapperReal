@@ -1,7 +1,7 @@
 # FastMapperReal
 ![Nuget](https://img.shields.io/nuget/v/fastmapper?label=FastMapperReal)
 
-FastMapper is based on the FastMember project developed by mgravell (https://github.com/mgravell/fast-member). FastMember provides fast access to fields and properties of types in .NET, which is especially useful when access to type members is needed dynamically and member names are known only at runtime. This project enables efficient manipulation of type members at runtime, significantly improving performance compared to using standard reflection in .NET.
+FastMapperReal is based on the FastMember project developed by mgravell (https://github.com/mgravell/fast-member). FastMapperReal provides fast access to fields and properties of types in .NET, which is especially useful when access to type members is needed dynamically and member names are known only at runtime. This project enables efficient manipulation of type members at runtime, significantly improving performance compared to using standard reflection in .NET.
 
 
 You should install the NuGet package in Visual Studio or via the console: [https://www.nuget.org/packages/noef](https://www.nuget.org/packages/FastMapperReal)  ![Nuget](https://img.shields.io/nuget/v/fastmapper?label=FastMapperReal)
