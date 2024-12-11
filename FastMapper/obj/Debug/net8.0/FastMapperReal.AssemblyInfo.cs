@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("DO NOT CARE")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e72649f9c253cc24711267d4e1eb22e5e8b093c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8c428f8143a83b7daa25335871a654de60f66a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("FastMapperReal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FastMapperReal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
