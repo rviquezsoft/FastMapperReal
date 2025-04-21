@@ -29,6 +29,6 @@ You should install the NuGet package in Visual Studio or via the console: [https
                 _mapper=mapper;
             }
 
-            Task SomeMethod(){ DestinationObject destinationObject = mapper.Map(sourceObject);}
+            Task SomeMethod(){ DestinationObject destinationObject = _mapper.Map(sourceObject);}
         }
           
